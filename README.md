@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josim Coussens</h1>
-<h3 align="center">A student backend developer at HoGent, Belgium</h3>
+<h3 align="center">A student developer at HoGent, Belgium</h3>
 
 - 🌱 I’m currently learning **Node.js, Express.js, React, ASP.NET Core and much more**
 
